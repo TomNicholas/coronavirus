@@ -6,6 +6,7 @@ This repo contains a description of the simplest possible model of influenza-lik
 
 For example, a simple extension to the initial model can demonstrate that increasing the effectiveness of social distancing (Q) reduces the mortality rate by reducing strain on healthcare systems.
 
+![Effect-of-flattening-the-infection-curve](https://github.com/TomNicholas/coronavirus/blob/master/flatten-the-curve.png)
 
 
 The equations, code, results and explanations are all in [the notebook](https://github.com/TomNicholas/coronavirus/blob/master/covid-19_model.ipynb).
