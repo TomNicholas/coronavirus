@@ -1,5 +1,7 @@
 # Coronavirus: The Simplest Model
 
+**Run interactively through Binder -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomNicholas/coronavirus/master?filepath=.%2Fblob%2Fmaster%2Fcovid-19_model.ipynb)**
+
 While the models used by actual epidemiologists can be complex, the essential dynamics of the spread of the novel coronavirus can be captured by models which are suprisingly simple.
 
 This repo contains a description of the simplest possible model of influenza-like disease spread (the SIRD model), and adds complexities to it to reproduce predictions from current major headlines.
