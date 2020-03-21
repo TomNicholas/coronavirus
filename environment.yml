@@ -1,0 +1,11 @@
+ 
+name: corona-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - ipywidgets
+
